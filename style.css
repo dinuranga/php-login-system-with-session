@@ -1,0 +1,14 @@
+.password-container {
+  display: flex;
+  align-items: center;
+}
+
+#pass {
+  padding-right: 30px;
+}
+
+#eye {
+  z-index: 999;
+  margin-top: 1px;
+  margin-left: -25px !important;
+}
